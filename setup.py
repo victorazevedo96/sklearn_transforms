@@ -1,4 +1,6 @@
 from setuptools import setup
+import pandas as pd
+import numpy as np
 
 
 setup(
